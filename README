@@ -1,5 +1,3 @@
-
-
 # 📰 News Scraper & Email Sender
 
 Este projeto realiza um **scraping automático** das últimas notícias da [BBC Brasil](https://www.bbc.com/portuguese) e envia um **e-mail com as 10 principais manchetes**.
@@ -11,20 +9,15 @@ Este projeto realiza um **scraping automático** das últimas notícias da [BBC 
 - ✉️ Nodemailer (envio de e-mail)
 - 🌐 dotenv (variáveis de ambiente)
 
-## ⚙️ Como usar
+---
 
-### 1. Clone o repositório
+## 🛠️ Instalação
+
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/news-scraper-email.git
 cd news-scraper-email
-```
-
-### 2. Instale as dependências
-
-```bash
-npm install
-```
 
 ### 3. Crie um arquivo `.env` na raiz do projeto
 
@@ -57,5 +50,3 @@ O e-mail contém:
 ⏰ Horário da publicação
 ...
 ```
-
----
