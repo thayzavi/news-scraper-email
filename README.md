@@ -26,6 +26,7 @@ EMAIL_HOST=smtp.seuprovedor.com
 EMAIL_PORT=587
 EMAIL_USER=seuemail@provedor.com
 EMAIL_PASS=sua_senha
+EMAIL_TO=emailquevaireceber
 ```
 
 > ⚠️ **Nunca compartilhe seu `.env`** ou o adicione ao GitHub. Certifique-se de que ele está listado no seu `.gitignore`.
